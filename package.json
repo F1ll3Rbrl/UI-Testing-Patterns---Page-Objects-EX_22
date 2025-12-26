@@ -1,0 +1,14 @@
+{
+  "name": "cy-pageobjects",
+  "version": "1.0.0",
+  "description": "Teste de Cadastro",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "F1ll3Rbrl",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0"
+  }
+}
